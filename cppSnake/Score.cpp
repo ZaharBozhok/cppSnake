@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "Score.h"
 
 Score::Score(const Point& point, const int& value) : m_value(value), m_point(point)

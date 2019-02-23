@@ -1,5 +1,4 @@
 #pragma once
-#include "stdafx.h"
 #include "Snake.h"
 Snake::Snake(const Point& head) : m_headCell(L'H'), m_bodyCell(L'b'), m_dead(false)
 {

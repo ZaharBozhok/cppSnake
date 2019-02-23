@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "Box.h"
 
 Box::Box(const Point& startPoint, const size_t& width, const size_t& height) : m_width(width), m_height(height), m_fence(L'!')

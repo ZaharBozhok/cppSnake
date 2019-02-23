@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "Fruit.h"
 
 Fruit::Fruit(const size_t& borderX, const size_t& borderY) : m_borderX(borderX), m_borderY(borderY)
